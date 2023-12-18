@@ -1,0 +1,61 @@
+body {
+    background-color: #ADD8E6;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18 px;
+    }
+
+h1 {
+    text-align: center;
+    color: #8b0000;
+
+}
+
+img {
+    position: relative;
+    bottom: 70px ;
+    left: 65%;
+    border-radius: 15px;
+
+}
+
+p {
+    text-align: center;
+    border: 2px;
+    border-radius: 9px;
+    border-style: double;
+    border-color: black;
+    background-color: #ffffff; 
+    width: 50%;
+    margin: 30px;
+    position: relative;
+
+    
+}
+
+.frm {
+    text-align: center;
+    border: 2px;
+    border-radius: 10px;
+    border-color: darkcyan;
+    background-color: goldenrod ;
+}
+
+#usr{
+    border-radius: 10px;
+    border-style: double;
+    border-color: #ADD8E6;
+    border-width: 2px;
+}
+#dt , usr\agrement{
+    border-radius: 7px;
+    border-color: #ADD8E6;
+    border-width: 2px;
+    border-style: double;
+
+}
+#usr:hover {
+    background-color: #ADD8E6; 
+}
+#fst{
+    bottom: 120px;
+}
